@@ -1,4 +1,4 @@
-# Financial-Analysis-of-Stock-Prices
+# Stock Price Dynamics: Financial Analysis with Neural Networks
 
 **Introduction**
 
